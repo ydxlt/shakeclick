@@ -1,0 +1,4 @@
+include ':shake-click-plugin'
+include ':shake-click-api'
+include ':sample'
+rootProject.name = "shakeclick"
